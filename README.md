@@ -1,1 +1,1 @@
-# dataset pursues to discover the limitation of Human Visual System (HVS) on perceived image quality. Specifically, this dataset attempts to characterize the visual experience on JPEG-coded images of ordinary people. Therefore, we randomly invited more than 150 students on campus to participate in the subjective test. The subjects have different backgrounds and more than 80% of them have no experience on image compression
+# dataset 
